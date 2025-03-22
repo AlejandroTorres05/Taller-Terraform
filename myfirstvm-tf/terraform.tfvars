@@ -1,0 +1,10 @@
+subscription_id = "cfa24889-339b-47a0-8904-e92116cf0b3c"
+location = "eastus"
+resource_group_name = "linuxvmrg"
+virtual_network_name = "linuxvmvnet"
+subnet_name = "vmsubnet"
+network_interface_name = "vmnic"
+linux_virtual_machine_name = "linuxvm"
+
+network_security_group_name = "vmnsg"
+public_ip_name = "vmpublicip"
